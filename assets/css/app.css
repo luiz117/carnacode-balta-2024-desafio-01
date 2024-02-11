@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.input-text {
+  background-color: #f6f6f6;
+  border: 2px solid #bdbdbd;
+}
+
+.chk-idade65ouMais {
+  color: #666666;
+}
+
+button {
+  border-radius: 30px 30px !important;
+  height: 51px;
+}
+
+.btn-imc {
+  background-color: #45fefe;
+  border: 0px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-imc:active {
+  background-color: transparent;
+  border: 1px solid #45fefe;
+}
+
+.btn-idade65ouMais {
+  background-color: transparent;
+  border: 3px solid #45fefe;
+  transition: background-color 0.3s ease;
+}
+
+.btn-idade65ouMais:active {
+  background-color: #45fefe;
+}
