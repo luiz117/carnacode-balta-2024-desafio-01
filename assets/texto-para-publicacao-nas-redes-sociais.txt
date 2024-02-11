@@ -1,4 +1,4 @@
-Estou participando do CarnaCode 2024 do **(Mencionar perfil do balta.io)**, um evento online e gratuito onde estou desenvolvendo minhas habilidades com HTML, CSS, Blazor, WebAssembly, PWA, GitHub, GitHub Actions e Github Pages.
+Estou participando do CarnaCode 2024 do https://github.com/balta-io/carnacode-balta-2024-desafio-01, um evento online e gratuito onde estou desenvolvendo minhas habilidades com HTML, CSS, Blazor, WebAssembly, PWA, GitHub, GitHub Actions e Github Pages.
 
 Você também pode participar se inscrevendo neste link:
 👉 https://go.balta.io/carnacode-2024
