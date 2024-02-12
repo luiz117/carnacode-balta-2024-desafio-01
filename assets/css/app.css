@@ -3,6 +3,11 @@
   padding: 0;
 }
 
+a{
+  text-decoration: none;
+  color: black !important;
+}
+
 .flex {
   display: flex;
 }
@@ -46,7 +51,17 @@
   background-color: #45fefe;
 }
 
-#searchIMC {
-  border-radius: 25px 25px !important;
-  height: 51px;
+/* History */
+
+.icon-no-bg {
+  height: 95px;
+  width: 95px;
+  border: #45fefe 3px solid;
+  border-radius: 20%;
+  padding: 15px;
+}
+
+.contentBlockImg {
+  background-color: #666666;
+  border-radius: 8px;
 }
